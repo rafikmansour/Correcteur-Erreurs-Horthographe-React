@@ -1,4 +1,4 @@
-# Composant recat correction automatique des erreurs d'orthographe
+# Composant react correction automatique des erreurs d'orthographe
 
 La correction automatique des erreurs d'orthographe est un processus complexe qui nécessite l'utilisation d'un outil linguistique avancé tel que Hunspell ou un service externe comme Grammarly. Dans cet exemple, nous allons utiliser le service externe de "GrammarBot" pour corriger les erreurs d'orthographe dans un paragraphe.
 
